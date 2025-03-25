@@ -41,8 +41,4 @@ Materialiserade vyer: För att lagra och snabbt hämta ofta använda frågor.
 Index och constraints: För att förbättra sökhastighet och garantera datakvalitet.
 Transaktioner: Användning av ACID-egenskaper för att säkerställa att insättningar och uppdateringar genomförs korrekt.
 
-För att förbättra säkerheten i databasen har följande åtgärder implementerats:
-Begränsade behörigheter med GRANT/REVOKE:
-Säljare får endast SELECT på bilar och beställningar.
-Administratörer har full åtkomst till hela databasen.
-Transaktionshantering för att säkerställa datakonsistens.
+
